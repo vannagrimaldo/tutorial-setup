@@ -1,3 +1,7 @@
 # We want to add another subheading.
 
-Hello we are supposed to be doing this in visual studio
+Hello we are supposed to be doing this in visual studio. 
+
+# Supplemental text. 
+
+some sentence.
